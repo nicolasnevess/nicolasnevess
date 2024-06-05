@@ -1,4 +1,4 @@
-# Hey, I'm Nicolas Altarujo
+# Hey, I'm Nicolas Neves
 
 ![Neves GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasnevess&theme=github_dark&show_icons=true)
 
